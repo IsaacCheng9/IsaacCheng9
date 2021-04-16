@@ -5,24 +5,14 @@ For my third year, I'll be undertaking an internship at IBM Hursley as a softwar
 ✉️ If you'd like to contact me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
 
 
-### Programming Languages ⌨️
+### ⌨️ Programming Languages
 
 Python | Java | C++ | C | SQL | Haskell | Prolog
 
-### Technical Skills 🧠
+### 🧠 Technical Skills
 
 Git | Linux | Agile Development | Scrum | Kanban | UML | Visual Studio Code | IntelliJ | Vim | MySQL | Qt Creator
-<!--
-**IsaacCheng9/IsaacCheng9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 💡 Personal Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my personal projects, I adhere to the [Google Style Guide](https://github.com/google/styleguide) for the language(s) being used.
