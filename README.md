@@ -4,6 +4,7 @@ For my third year, I'll be undertaking an internship at IBM Hursley as a softwar
 
 ✉️ If you'd like to contact me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
 
+---
 
 ### ⌨️ Programming Languages
 
