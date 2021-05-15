@@ -8,7 +8,7 @@ If you'd like to contact me, feel free to connect with me on [LinkedIn](https://
 
 ### ⌨️ Programming Languages
 
-Python | Java | C++ | C | SQL | Haskell | Prolog
+Python | C++ | C | Java | SQL | Haskell | Prolog
 
 ### 🧠 Technical Skills
 
