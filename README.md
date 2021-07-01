@@ -1,6 +1,6 @@
 ## Hi there, I'm Isaac! 👋
-I'm a second-year [Computer Science undergraduate](https://www.exeter.ac.uk/undergraduate/courses/computerscience/comsci/) at the University of Exeter. 📚
-For my third year, I'll be undertaking an internship at IBM Hursley as a software engineer for their [Watson IoT Platform team](https://www.ibm.com/cloud/watson-iot-platform).
+I'm a third-year [Computer Science undergraduate](https://www.exeter.ac.uk/undergraduate/courses/computerscience/comsci/) at the University of Exeter 📚. 
+I am currently undertaking an internship at IBM Hursley as a software engineer for their [Watson IoT Platform team](https://www.ibm.com/cloud/watson-iot-platform).
 
 If you'd like to contact me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)! ✉️
 
