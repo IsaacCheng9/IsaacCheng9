@@ -15,4 +15,4 @@ Python (PyQt5, Flask, SQLite3, Pandas) | SQL | C++ | C | Java | Haskell | Prolog
 
 ### 🧠 Technical Skills
 
-Git | Linux | Agile | Kanban | Scrum | MySQL | UML | Docker | Kubernetes | Trello
+Git | Linux | Agile | Kanban | Scrum | MySQL | UML | Docker | Kubernetes | Ansible | Trello
