@@ -1,8 +1,12 @@
 ## Hi there, I'm Isaac! 👋
-I'm a third-year [Computer Science undergraduate](https://www.exeter.ac.uk/undergraduate/courses/computerscience/comsci/) at the University of Exeter. 
-For my placement year, I'm working at IBM Hursley as a software developer for their [Watson IoT Platform Team](https://www.ibm.com/cloud/watson-iot-platform).
 
-If you'd like to contact me, feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)! ✉️
+I'm a third-year [Computer Science undergraduate](https://www.exeter.ac.uk/undergraduate/courses/computerscience/comsci/)
+at the University of Exeter. For my placement year, I'm working at IBM Hursley
+as a software developer for their
+[Watson IoT Platform Team](https://internetofthings.ibmcloud.com/).
+
+If you'd like to contact me, feel free to message me on
+[LinkedIn](https://www.linkedin.com/in/isaaccheng9)! ✉️
 
 ---
 
@@ -11,8 +15,12 @@ If you'd like to contact me, feel free to message me on [LinkedIn](https://www.l
 
 ### ⌨️ Programming Languages
 
-Python (PyQt5, Flask, SQLite3, Pandas) | SQL | C++ | C | Java | Haskell | Prolog
+Python | SQL | C++ | C | Java | Haskell | Prolog
 
 ### 🧠 Technical Skills
 
-Git | Linux | Agile | Kanban | Scrum | MySQL | UML | Docker | Kubernetes | Ansible | Trello
+Git | Linux | Agile | Kanban | Scrum | MySQL | Docker | Kubernetes | Ansible
+| OpenShift | UML
+
+Flask | PyQt5 | SQLite | Pytest | NumPy | Pandas | Swagger |
+Continuous Integration
