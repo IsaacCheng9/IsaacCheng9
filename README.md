@@ -22,5 +22,5 @@ Python | SQL | C++ | C | Java | Haskell | Prolog
 Git | Linux | Agile | Kanban | Scrum | MySQL | Docker | Kubernetes | Ansible
 | OpenShift | UML
 
-Flask | PyQt5 | SQLite | Pytest | NumPy | Pandas | Swagger |
-Continuous Integration
+Flask | PyQt5 | SQLite | Pytest | NumPy | Pandas | Matplotlib | Scikit-learn
+| Swagger (OpenAPI) | CI/CD
