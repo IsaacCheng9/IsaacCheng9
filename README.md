@@ -23,4 +23,4 @@ Git | Linux | Agile | Kanban | Scrum | MySQL | Docker | Kubernetes | Ansible
 | OpenShift | UML
 
 Flask | PyQt5 | SQLite | Pytest | NumPy | Pandas | Matplotlib | Scikit-learn
-| Swagger (OpenAPI) | CI/CD
+| Swagger (OpenAPI) | JUnit | CI/CD
