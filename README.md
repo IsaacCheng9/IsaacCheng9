@@ -19,8 +19,8 @@ Python | SQL | C++ | C | Java | Haskell | Prolog
 
 ### 🧠 Technical Skills
 
-Git | Linux | Agile | Kanban | Scrum | MySQL | Docker | Kubernetes | Ansible
-| OpenShift | UML
+Git | Linux | Agile | Kanban | Scrum | MySQL | Docker | Kubernetes | Ansible |
+OpenShift | UML
 
-Flask | PyQt5 | SQLite | Pytest | NumPy | Pandas | Matplotlib | Scikit-learn
-| Swagger (OpenAPI) | JUnit | CI/CD
+Flask | PyQt5 | SQLite | Pytest | NumPy | Pandas | Scikit-learn | Swagger
+(OpenAPI) | Postman | JUnit | CI/CD
