@@ -15,11 +15,11 @@ If you'd like to contact me, feel free to message me on
 
 ### ⌨️ Programming Languages
 
-Python | SQL | C++ | C | Java | Haskell | Prolog
+Python | SQL | C++ | C | Java
 
 ### 🧠 Technical Skills
 
 Git | Linux | Agile | Kanban | Scrum | MySQL | Swagger (OpenAPI) | Kubernetes |
 Postman | UML
 
-Flask | PyQt5 | SQLite | Pytest | NumPy | Pandas | Scikit-learn | JUnit | CI/CD
+Flask | PyQt5 | SQLite | Pytest | NumPy | Pandas | Scikit-learn | JUnit
