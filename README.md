@@ -2,7 +2,7 @@
 
 I'm a third-year [Computer Science undergraduate](https://www.exeter.ac.uk/undergraduate/courses/computerscience/comsci/)
 at the University of Exeter. For my placement year, I'm working at IBM Hursley
-as a software developer for their
+as a software engineer for the
 [Watson IoT Platform Team](https://internetofthings.ibmcloud.com/).
 
 If you'd like to contact me, feel free to message me on
@@ -19,7 +19,7 @@ Python | SQL | C++ | C | Java
 
 ### 🧠 Technical Skills
 
-Git | Linux | Agile | Kanban | Scrum | MySQL | Swagger (OpenAPI) | Kubernetes |
+Git | Linux | Kanban | Agile | Scrum | MySQL | Swagger (OpenAPI) | Kubernetes |
 Postman | UML
 
 Flask | PyQt5 | SQLite | Pytest | NumPy | Pandas | Scikit-learn | JUnit
