@@ -20,6 +20,6 @@ Python | SQL | C++ | C | Java
 ### 🧠 Technical Skills
 
 Git | Linux | Kanban | Agile | Scrum | MySQL | Swagger (OpenAPI) | Kubernetes |
-Postman | UML
+Postman
 
 Flask | PyQt5 | SQLite | Pytest | NumPy | Pandas | Scikit-learn | JUnit
