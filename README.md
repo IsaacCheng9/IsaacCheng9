@@ -1,9 +1,9 @@
 ## Hi there, I'm Isaac! 👋
 
 I'm a third-year [Computer Science undergraduate](https://www.exeter.ac.uk/undergraduate/courses/computerscience/comsci/)
-at the University of Exeter. For my placement year, I'm working at IBM Hursley
-as a software engineer for the
-[Watson IoT Platform Team](https://internetofthings.ibmcloud.com/).
+at the University of Exeter. For my sandwich placement year, I'm working at IBM Hursley
+as a back-end software engineer for the [Watson IoT Platform Team](https://internetofthings.ibmcloud.com/), developing
+[Maximo Application Suite](https://www.ibm.com/uk-en/products/maximo).
 
 If you'd like to contact me, feel free to message me on
 [LinkedIn](https://www.linkedin.com/in/isaaccheng9)! ✉️
@@ -19,7 +19,6 @@ Python | SQL | C++ | C | Java
 
 ### 🧠 Technical Skills
 
-Git | Linux | Kanban | Agile | Scrum | MySQL | Swagger (OpenAPI) | Kubernetes |
-Postman | Travis CI
+Git | Linux | MySQL | Swagger (OpenAPI) | Kubernetes | Postman | Travis CI
 
-Flask | PyQt5 | SQLite | Pytest | NumPy | Pandas | Scikit-learn | JUnit
+Flask | PyQt5 | Pytest | SQLite | NumPy | Pandas | Scikit-learn | JUnit
