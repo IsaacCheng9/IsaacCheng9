@@ -19,6 +19,6 @@ Python | SQL | C++ | C | Java
 
 ### 🧠 Technical Skills
 
-Git | Linux | MySQL | Qt | Swagger (OpenAPI) | Kubernetes | Postman | Travis CI
+Git | Linux | MySQL | SQLite | Qt | Swagger (OpenAPI) | Kubernetes | Postman | Travis CI
 
-Flask | PyQt5 | Pytest | SQLite | NumPy | Pandas | Scikit-learn | JUnit
+Flask | PyQt5 | Pytest | NumPy | Pandas | Scikit-learn | JUnit
