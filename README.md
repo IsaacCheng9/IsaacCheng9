@@ -8,17 +8,24 @@ as a back-end software engineer for the [Watson IoT Platform Team](https://inter
 If you'd like to contact me, feel free to message me on
 [LinkedIn](https://www.linkedin.com/in/isaaccheng9)! ✉️
 
-## Languages and Skills
+## Skills
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-### ⌨️ Programming Languages
-
-Python | SQL | C++ | C | Java
-
-### 🧠 Technical Skills
-
-Git | Linux | MySQL | SQLite | Qt | Swagger (OpenAPI) | Kubernetes | Postman | Travis CI
-
-Flask | PyQt5 | Pytest | NumPy | Pandas | Scikit-learn | JUnit
+<table>
+  <tr>
+    <th>Languages</th>
+    </p>
+    <td>Python, SQL, C++, C, Java</td>
+  </tr>
+  <tr>
+    <th>Tools and Frameworks</th>
+    <td>Git, Linux, MySQL, SQLite, Qt, Swagger (OpenAPI), Kubernetes, Postman, Travis CI
+  </td>
+  <tr>
+    <th>Libraries</th>
+    <td>Flask, PyQt5, Pytest, NumPy, Pandas, Scikit-learn, JUnit
+  </td>
+  </tr>
+</table>
