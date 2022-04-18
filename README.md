@@ -16,15 +16,15 @@ If you'd like to contact me, feel free to message me on
   <tr>
     <th>Languages</th>
     </p>
-    <td>Python, SQL, Java, C++, C</td>
+    <td>Python, SQL, JavaScript, Java, C++, C</td>
   </tr>
   <tr>
     <th>Frameworks</th>
-    <td>Flask, Pytest, SQLite, OpenAPI, PyQt5, Qt, Pandas, NumPy, Scikit-learn, JUnit
+    <td>Flask, pytest, SQLite, OpenAPI, PyQt5, Qt, pandas, NumPy, scikit-learn, JUnit
   </td>
   <tr>
     <th>Tools</th>
-    <td>Git, Linux, MySQL, Kubernetes, OpenShift, Postman, Travis CI, GitHub Actions
+    <td>Git, Linux, MySQL, Kubernetes, Postman, Travis CI, GitHub Actions
   </td>
   </tr>
 </table>
