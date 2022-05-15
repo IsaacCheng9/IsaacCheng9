@@ -19,8 +19,8 @@ If you'd like to contact me, feel free to message me on
     <td>Python, SQL, JavaScript, Java, C++, C</td>
   </tr>
   <tr>
-    <th>Frameworks</th>
-    <td>Flask, pytest, SQLite, OpenAPI, PyQt5, Qt, pandas, NumPy, scikit-learn, JUnit
+    <th>Technologies</th>
+    <td>Flask, pytest, SQLite, OpenAPI, PyQt5, Qt, pandas, NumPy, scikit-learn, Node.js, React, JUnit
   </td>
   <tr>
     <th>Tools</th>
