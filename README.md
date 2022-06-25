@@ -1,9 +1,8 @@
 ## Hi there, I'm Isaac! 👋
 
-I'm an incoming fourth-year [Computer Science undergraduate](https://www.exeter.ac.uk/undergraduate/courses/computerscience/comsci/)
-at the University of Exeter, studying Machine Learning in Chess for my final
-year project. Over the summer, I'm working as a quantitative developer at
-T. Rowe Price.
+I'm an incoming fourth-year Computer Science undergraduate at the University of
+Exeter, studying Machine Learning in Chess for my final year project. Over the
+summer, I'm working as a quantitative developer at T. Rowe Price.
 
 If you'd like to contact me, feel free to message me on
 [LinkedIn](https://www.linkedin.com/in/isaaccheng9)! ✉️
