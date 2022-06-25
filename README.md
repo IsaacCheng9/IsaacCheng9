@@ -1,8 +1,9 @@
 ## Hi there, I'm Isaac! 👋
 
-I'm a third-year [Computer Science undergraduate](https://www.exeter.ac.uk/undergraduate/courses/computerscience/comsci/)
-at the University of Exeter. For my sandwich placement year, I'm working at IBM as a back-end software engineer for the [Watson IoT Platform Team](https://internetofthings.ibmcloud.com/), developing
-[Maximo Application Suite](https://www.ibm.com/uk-en/products/maximo).
+I'm an incoming fourth-year [Computer Science undergraduate](https://www.exeter.ac.uk/undergraduate/courses/computerscience/comsci/)
+at the University of Exeter, studying Machine Learning in Chess for my final
+year project. Over the summer, I'm working as a quantitative developer at
+T. Rowe Price.
 
 If you'd like to contact me, feel free to message me on
 [LinkedIn](https://www.linkedin.com/in/isaaccheng9)! ✉️
