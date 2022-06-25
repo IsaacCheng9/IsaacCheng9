@@ -20,7 +20,7 @@ If you'd like to contact me, feel free to message me on
   </tr>
   <tr>
     <th>Technologies</th>
-    <td>Flask, pytest, SQLite, OpenAPI, PyQt5, Qt, pandas, NumPy, scikit-learn, Node.js, React, JUnit
+    <td>Flask, pytest, SQLite, OpenAPI, PyQt5, Qt, pandas, NumPy, scikit-learn, Node.js, React
   </td>
   <tr>
     <th>Tools</th>
