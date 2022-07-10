@@ -1,11 +1,14 @@
 ## Hi there, I'm Isaac! 👋
 
-I'm an incoming fourth-year Computer Science undergraduate at the University of
-Exeter, studying Machine Learning in Chess for my final year project. Over the
-summer, I'm working as a quantitative developer at T. Rowe Price.
+A fourth-year student at the University of Exeter, averaging a high first-class
+honours (>80%). Proficient in Python, with experience in financial markets and
+big tech. Passionate about developing large-scale distributed systems and
+algorithmic optimisation.
 
-If you'd like to contact me, feel free to message me on
-[LinkedIn](https://www.linkedin.com/in/isaaccheng9)! ✉️
+I'm currently working as a quantitative developer intern at T. Rowe Price for
+the Fixed Income Quantitative Engineering team.
+
+Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
 
 ## Skills
 
