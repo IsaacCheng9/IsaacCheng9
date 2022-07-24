@@ -23,11 +23,11 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </tr>
   <tr>
     <th>Technologies</th>
-    <td>Flask, pytest, SQLite, OpenAPI, PyQt5, Qt, pandas, NumPy, scikit-learn, Node.js, React
+    <td>Flask, pytest, OpenAPI, PyQt5, Qt, pandas, NumPy, scikit-learn, Node.js, React
   </td>
   <tr>
     <th>Tools</th>
-    <td>Git, Linux, MySQL, Kubernetes, Travis CI, GitHub Actions
+    <td>Git, Linux, Kubernetes, Travis CI, GitHub Actions
   </td>
   </tr>
 </table>
