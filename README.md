@@ -27,7 +27,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </td>
   <tr>
     <th>Tools</th>
-    <td>Git, Linux, MySQL, Kubernetes, Postman, Travis CI, GitHub Actions
+    <td>Git, Linux, MySQL, Kubernetes, Travis CI, GitHub Actions
   </td>
   </tr>
 </table>
