@@ -5,7 +5,8 @@ honours (>80%). Proficient in Python, with experience in financial markets and
 big tech. Passionate about developing large-scale distributed systems and
 algorithmic optimisation.
 
-I previously interned as a quantitative developer at T. Rowe Price and a software developer at IBM.
+I previously interned as a quantitative developer at T. Rowe Price and a
+software developer at IBM.
 
 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
 
@@ -22,7 +23,8 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </tr>
   <tr>
     <th>Technologies</th>
-    <td>Flask, FastAPI, pytest, PyQt5, pandas, NumPy, scikit-learn, Node.js, React
+    <td>Flask, FastAPI, pytest, PyQt5, pandas, NumPy, scikit-learn, Node.js,
+    React
   </td>
   <tr>
     <th>Tools</th>
