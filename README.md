@@ -19,15 +19,16 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   <tr>
     <th>Languages</th>
     </p>
-    <td>Python, SQL, JavaScript, Java, C++, C</td>
+    <td>Python, SQL, JavaScript, C++, C, Java</td>
   </tr>
   <tr>
     <th>Technologies</th>
-    <td>Flask, pytest, OpenAPI, PyQt5, Qt, pandas, NumPy, scikit-learn, Node.js, React
+    <td>Flask, FastAPI, pytest, PyQt5, pandas, NumPy, scikit-learn, Node.js, React
   </td>
   <tr>
     <th>Tools</th>
-    <td>Git, Linux, Kubernetes, Travis CI, GitHub Actions
+    <td>Git, Linux, Kubernetes, OpenAPI, Qt, GitHub Actions, Travis CI, AWS,
+    Splunk
   </td>
   </tr>
 </table>
