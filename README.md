@@ -5,8 +5,7 @@ honours (>80%). Proficient in Python, with experience in financial markets and
 big tech. Passionate about developing large-scale distributed systems and
 algorithmic optimisation.
 
-I'm currently working as a quantitative developer intern at T. Rowe Price for
-the Fixed Income Quantitative Engineering team.
+I previously interned as a quantitative developer at T. Rowe Price and a software developer at IBM.
 
 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
 
