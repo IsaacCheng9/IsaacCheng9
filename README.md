@@ -24,12 +24,12 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   <tr>
     <th>Technologies</th>
     <td>Flask, FastAPI, pytest, PyQt5, pandas, NumPy, scikit-learn, Node.js,
-    React
+    Jest, React
   </td>
   <tr>
     <th>Tools</th>
-    <td>Git, Linux, Kubernetes, OpenAPI, Qt, GitHub Actions, Travis CI, AWS,
-    Splunk
+    <td>Git, Linux, Kubernetes, OpenAPI, Qt, Splunk, GitHub Actions, Travis CI,
+    AWS
   </td>
   </tr>
 </table>
