@@ -5,8 +5,24 @@ honours (>80%). Proficient in Python, with experience in financial markets and
 big tech. Passionate about developing large-scale distributed systems and
 algorithmic optimisation.
 
-I previously interned as a quantitative developer at T. Rowe Price and a
-software developer at IBM.
+### Previous Experience
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Role</th>
+    <th>Tenure</th>
+  <tr>
+    <td>T. Rowe Price</td>
+    <td>Quantitative Developer Intern</td>
+    <td>June 2022 – August 2022</td>
+  </tr>
+  <tr>
+    <td>IBM</td>
+    <td>Software Developer Intern</td>
+    <td>June 2021 – June 2022</td>
+  </tr>
+</table>
 
 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
 
