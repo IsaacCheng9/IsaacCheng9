@@ -40,7 +40,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   <tr>
     <th>Technologies</th>
     <td>Flask, FastAPI, pytest, PyQt5, pandas, NumPy, scikit-learn, Node.js,
-    Jest
+    Express, MongoDB, Jest
   </td>
   <tr>
     <th>Tools</th>
