@@ -14,7 +14,7 @@ algorithmic optimisation.
     <th>Tenure</th>
   <tr>
     <td>T. Rowe Price</td>
-    <td>Quantitative Developer Intern</td>
+    <td>Fixed Income Quant Developer Intern</td>
     <td>June 2022 – August 2022</td>
   </tr>
   <tr>
@@ -39,8 +39,8 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </tr>
   <tr>
     <th>Technologies</th>
-    <td>Flask, FastAPI, pytest, PyQt, pandas, NumPy, scikit-learn, Node.js,
-    Express, MongoDB, Jest
+    <td>Flask, FastAPI, pytest, PyQt, pandas, Dask, NumPy, scikit-learn,
+    Node.js, Express, MongoDB, Jest
   </td>
   <tr>
     <th>Tools</th>
