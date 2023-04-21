@@ -35,7 +35,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   <tr>
     <th>Languages</th>
     </p>
-    <td>Python, SQL, JavaScript, C++, C, Java, Go</td>
+    <td>Python, SQL, JavaScript, C++, C, Go, Java</td>
   </tr>
   <tr>
     <th>Technologies</th>
