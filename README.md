@@ -35,11 +35,11 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   <tr>
     <th>Languages</th>
     </p>
-    <td>Python, SQL, JavaScript, C++, C, Go, Java</td>
+    <td>Python, SQL, C++, C, JavaScript, Go, Java</td>
   </tr>
   <tr>
     <th>Technologies</th>
-    <td>Flask, FastAPI, pytest, PyQt, pandas, Dask, NumPy, scikit-learn,
+    <td>Flask, FastAPI, pytest, PyQt, pandas, NumPy, scikit-learn, Dask,
     Node.js, Express, MongoDB, Jest
   </td>
   <tr>
