@@ -1,17 +1,19 @@
 ## Hi there, I'm Isaac! 👋
 
-A fourth-year student at the University of Exeter, averaging a high first-class
-honours (>80%). Proficient in Python, with experience in financial markets and
-big tech. Passionate about developing large-scale distributed systems and
-algorithmic optimisation.
+A graduate with a first-class degree (81%) in BSc Computer Science from the University of Exeter. Proficient in Python, with experience in financial markets and big tech. Passionate about developing large-scale distributed systems and algorithmic optimisation.
 
-### Previous Experience
+## Previous Experience
 
 <table>
   <tr>
     <th>Company</th>
     <th>Role</th>
     <th>Tenure</th>
+  <tr>
+    <td>T. Rowe Price</td>
+    <td>Fixed Income Quant Developer</td>
+    <td>September 2023 – Present</td>
+  </tr>
   <tr>
     <td>T. Rowe Price</td>
     <td>Fixed Income Quant Developer Intern</td>
