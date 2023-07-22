@@ -1,6 +1,6 @@
 ## Hi there, I'm Isaac! 👋
 
-A graduate with a first-class degree (81%) in BSc Computer Science from the University of Exeter. Proficient in Python, with experience in financial markets and big tech. Passionate about developing large-scale distributed systems and algorithmic optimisation.
+A graduate with a first-class honours degree (81%) in BSc Computer Science from the University of Exeter. Ranked #1 for academic performance in final year and #1 for undergraduate projects. Proficient in Python, with experience in financial markets and big tech. Passionate about developing large-scale distributed systems and algorithmic optimisation.
 
 ## Experience
 
