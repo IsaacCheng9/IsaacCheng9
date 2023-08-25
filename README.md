@@ -37,17 +37,16 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   <tr>
     <th>Languages</th>
     </p>
-    <td>Python, SQL, C++, C, JavaScript, Go, Java</td>
+    <td>Python, SQL, C++, C, JavaScript</td>
   </tr>
   <tr>
     <th>Technologies</th>
-    <td>Flask, FastAPI, pytest, PyQt, pandas, NumPy, scikit-learn, Dask,
+    <td>Flask, pytest, PyQt, pandas, NumPy, scikit-learn, Dask,
     Node.js, Express, MongoDB, Jest
   </td>
   <tr>
     <th>Tools</th>
-    <td>Git, Linux, Kubernetes, OpenAPI, Qt, Splunk, GitHub Actions, Travis CI,
-    AWS
+    <td>Git, Linux, Kubernetes, Qt, GitHub Actions, Splunk, OpenAPI
   </td>
   </tr>
 </table>
