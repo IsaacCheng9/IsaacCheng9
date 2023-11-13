@@ -42,7 +42,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </tr>
   <tr>
     <th>Technologies</th>
-    <td>Flask, pytest, PyQt, pandas, NumPy, scikit-learn, Dask, MongoDB
+    <td>Flask, pytest, PyQt, pandas, NumPy, scikit-learn, Dask, Airflow, MongoDB
   </td>
   <tr>
     <th>Tools</th>
