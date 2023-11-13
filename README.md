@@ -1,4 +1,4 @@
-## Hi there, I'm Isaac! 👋
+# Hi there, I'm Isaac! 👋
 
 A graduate with a first-class honours degree (81%) in BSc Computer Science from
 the University of Exeter. Ranked 1st in the cohort for academic performance and
@@ -34,9 +34,6 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
 
 ## Skills
 
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-
 <table>
   <tr>
     <th>Languages</th>
@@ -49,7 +46,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </td>
   <tr>
     <th>Tools</th>
-    <td>Git, Linux, Kubernetes, Qt, GitHub Actions, Splunk, OpenAPI
+    <td>Git, Linux, Kubernetes, Qt, GitHub Actions, Splunk, Swagger, AWS
   </td>
   </tr>
 </table>
