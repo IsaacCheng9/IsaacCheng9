@@ -47,8 +47,8 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </td>
   <tr>
     <th>Tools</th>
-    <td>Git, Linux, Kubernetes, Qt, GitHub Actions, GitLab CI/CD, Splunk,
-    Swagger, AWS
+    <td>Git, Linux, AWS, Kubernetes, Qt, Splunk, Swagger, GitHub Actions,
+    GitLab CI/CD
   </td>
   </tr>
 </table>
