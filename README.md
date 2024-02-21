@@ -1,10 +1,10 @@
 # Hi there, I'm Isaac! 👋
 
-Graduated at the top of my cohort from the University of Exeter with a
+Graduated at the top of my cohort in the University of Exeter with a
 first-class honours degree (81%) in BSc Computer Science, ranking 1st for both
-academic performance and final year project. Proficient in Python, with
-experience in financial markets and big tech. Passionate about developing
-large-scale distributed systems and algorithmic optimisation.
+overall grade and final year project. Proficient in Python, with experience in
+financial markets and big tech. Passionate about developing large-scale
+distributed systems and algorithmic optimisation.
 
 ## Experience
 
@@ -42,8 +42,8 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </tr>
   <tr>
     <th>Technologies</th>
-    <td>Flask, FastAPI, pytest, PyQt, pandas, NumPy, scikit-learn, Dask,
-    Airflow, MongoDB
+    <td>Airflow, pandas, NumPy, FastAPI, Flask, pytest, PyQt, scikit-learn,
+    Dask, MongoDB
   </td>
   <tr>
     <th>Tools</th>
