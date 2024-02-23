@@ -1,6 +1,6 @@
 # Hi there, I'm Isaac! 👋
 
-Graduated at the top of my cohort in the University of Exeter with a
+Graduated at the top of my cohort at the University of Exeter with a
 first-class honours degree (81%) in BSc Computer Science, ranking 1st for both
 overall grade and final year project. Proficient in Python, with experience in
 financial markets and big tech. Passionate about developing large-scale
@@ -47,8 +47,8 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </td>
   <tr>
     <th>Tools</th>
-    <td>Git, Linux, AWS, Kubernetes, Qt, Splunk, Swagger, GitHub Actions,
-    GitLab CI/CD
+    <td>Git, Linux, AWS (S3, MWAA, CloudWatch), Kubernetes, Qt, Splunk, Grafana,
+    Swagger, CI/CD
   </td>
   </tr>
 </table>
