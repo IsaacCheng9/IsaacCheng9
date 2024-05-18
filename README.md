@@ -47,7 +47,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </td>
   <tr>
     <th>Tools</th>
-    <td>Git, Linux, AWS (S3, MWAA, CloudWatch), Kubernetes, Qt, Splunk, Grafana,
+    <td>Git, Linux, AWS (ECS, S3, MWAA, CloudWatch), Kubernetes, Qt, Splunk, Grafana,
     Swagger, CI/CD
   </td>
   </tr>
