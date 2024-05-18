@@ -43,7 +43,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   <tr>
     <th>Technologies</th>
     <td>Airflow, pandas, NumPy, FastAPI, Flask, pytest, PyQt, scikit-learn,
-    Dask, MongoDB
+    Dask, DuckDB, MongoDB
   </td>
   <tr>
     <th>Tools</th>
