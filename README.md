@@ -15,12 +15,12 @@ systems and algorithmic optimisation.
     <th>Tenure</th>
   <tr>
     <td>T. Rowe Price</td>
-    <td>Fixed Income Quant Developer</td>
+    <td>Quant Developer – Fixed Income</td>
     <td>September 2023 – Present</td>
   </tr>
   <tr>
     <td>T. Rowe Price</td>
-    <td>Fixed Income Quant Developer Intern</td>
+    <td>Quant Developer Intern – Fixed Income</td>
     <td>June 2022 – August 2022</td>
   </tr>
   <tr>
