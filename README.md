@@ -38,7 +38,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   <tr>
     <th>Languages</th>
     </p>
-    <td>Python, SQL, C++, C</td>
+    <td>Python, SQL, C++, C, R</td>
   </tr>
   <tr>
     <th>Technologies</th>
@@ -47,8 +47,8 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </td>
   <tr>
     <th>Tools</th>
-    <td>Git, Linux, AWS (ECS, S3, MWAA, CloudWatch), Kubernetes, Qt, Splunk,
-    Grafana
+    <td>Git, Linux, AWS (ECS, S3, MWAA, CloudWatch), Docker, Kubernetes, Qt,
+    Splunk, Grafana
   </td>
   </tr>
 </table>
