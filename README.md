@@ -25,7 +25,7 @@ systems and algorithmic optimisation.
   </tr>
   <tr>
     <td>IBM</td>
-    <td>Software Developer Placement – Watson IoT Platform Team</td>
+    <td>Software Developer Placement – Watson IoT Platform</td>
     <td>June 2021 – June 2022</td>
   </tr>
 </table>
