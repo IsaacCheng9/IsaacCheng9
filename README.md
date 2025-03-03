@@ -25,16 +25,21 @@ systems and algorithmic optimisation.
   </tr>
   <tr>
     <td>IBM</td>
-    <td>Software Developer Placement – Watson IoT Platform</td>
+    <td>Software Engineer Placement – Watson IoT Platform</td>
     <td>June 2021 – June 2022</td>
   </tr>
 </table>
 
 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
 
-## Skills
+## Awards and Skills
 
 <table>
+  <tr>
+    <th>Awards</th>
+    </p>
+    <td>Keyloop Dealer Tech Hackathon 2022 – University Round Winner (£1,000 Prize) and International Finalist</td>
+  </tr>
   <tr>
     <th>Languages</th>
     </p>
