@@ -1,10 +1,11 @@
 # Hi there, I'm Isaac! 👋
 
-Graduated at the top of my cohort at the University of Exeter with a first-class
-honours degree (81%) in BSc Computer Science, ranking 1st for both overall grade
-and final year project. Proficient in Python, with experience in financial
-markets and big tech. Passionate about developing large-scale distributed
-systems and algorithmic optimisation.
+Working as a quant developer at T. Rowe Price after graduating at the top of my
+cohort at the University of Exeter with a first-class honours degree (81%) in
+BSc Computer Science, ranking 1st for both overall grade and final year project.
+Proficient in Python, with experience in financial markets and big tech.
+Passionate about developing large-scale distributed systems and algorithmic
+optimisation.
 
 ## Experience
 
