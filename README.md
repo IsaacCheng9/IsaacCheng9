@@ -48,7 +48,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </tr>
   <tr>
     <th>Technologies</th>
-    <td>Airflow, pandas, Polars, DuckDB, NumPy, FastAPI, Flask, pytest,
+    <td>pandas, Polars, DuckDB, NumPy, Airflow, FastAPI, Flask, pytest,
     PostgreSQL, Kafka, PyQt, scikit-learn, Dask
   </td>
   <tr>
