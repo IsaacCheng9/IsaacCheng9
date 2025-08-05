@@ -53,8 +53,8 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </td>
   <tr>
     <th>Tools</th>
-    <td>Git, Linux, AWS (ECS, S3, MWAA, CloudWatch), Docker, Kubernetes, Qt,
-    Splunk, Grafana
+    <td>Git, Linux, AWS (S3, MWAA, ECS, SNS, CloudWatch), Docker, Kubernetes,
+    Qt, Splunk, Grafana
   </td>
   </tr>
 </table>
