@@ -48,13 +48,13 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </tr>
   <tr>
     <th>Technologies</th>
-    <td>pandas, Polars, DuckDB, NumPy, Airflow, FastAPI, Flask, pytest,
-    PostgreSQL, Kafka, PyQt, scikit-learn, Dask
+    <td>pandas, Polars, DuckDB, NumPy, Airflow, FastAPI, Flask, Streamlit,
+    pytest, PostgreSQL, Kafka, PyQt, scikit-learn, Dask
   </td>
   <tr>
     <th>Tools</th>
-    <td>Git, Linux, AWS (S3, MWAA, ECS, SNS, CloudWatch), Docker, Kubernetes,
-    Qt, Splunk, Grafana
+    <td>Git, Linux, AWS (S3, MWAA, ECS, Lambda, SNS, CloudWatch), Docker,
+    Kubernetes, Qt, Splunk, Grafana
   </td>
   </tr>
 </table>
