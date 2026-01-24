@@ -1,11 +1,6 @@
 # Hi there, I'm Isaac! 👋
 
-Working as a quant developer at T. Rowe Price after graduating at the top of my
-cohort at the University of Exeter with a first-class honours degree (81%) in
-BSc Computer Science, ranking 1st for both overall grade and final year project.
-Proficient in Python, with experience in financial markets and big tech.
-Passionate about developing large-scale distributed systems and algorithmic
-optimisation.
+Quant developer at T. Rowe Price building our research platform and quant signal engine, and optimising quant models. Focused on Python, distributed systems, and making things fast. Graduated top of my cohort with the best dissertation at the University of Exeter in BSc Computer Science.
 
 ## Experience
 
@@ -44,7 +39,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   <tr>
     <th>Languages</th>
     </p>
-    <td>Python, SQL, C++, C, R</td>
+    <td>Python, SQL, R</td>
   </tr>
   <tr>
     <th>Technologies</th>
