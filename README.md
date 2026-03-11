@@ -1,6 +1,9 @@
 # Hi there, I'm Isaac! 👋
 
-Quant developer at T. Rowe Price building our research platform and quant signal engine, and optimising quant models. Focused on Python, distributed systems, and making things fast. Graduated top of my cohort with the best dissertation at the University of Exeter in BSc Computer Science.
+Quant developer at T. Rowe Price building our research platform and quant signal
+engine, and optimising quant models. Focused on Python, distributed systems, and
+making things fast. Graduated top of my cohort with the best dissertation at the
+University of Exeter in BSc Computer Science.
 
 ## Experience
 
@@ -43,8 +46,8 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </tr>
   <tr>
     <th>Technologies</th>
-    <td>pandas, Polars, DuckDB, NumPy, Airflow, FastAPI, Flask, Streamlit,
-    pytest, PostgreSQL, Kafka, PyQt, scikit-learn, Dask
+    <td>pandas, Polars, DuckDB, NumPy, Airflow, FastAPI, Streamlit, pytest,
+    PostgreSQL, Kafka, PyQt, Dask
   </td>
   <tr>
     <th>Tools</th>
