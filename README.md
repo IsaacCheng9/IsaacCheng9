@@ -37,22 +37,23 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   <tr>
     <th>Awards</th>
     </p>
-    <td>Keyloop Dealer Tech Hackathon 2022 – University Round Winner (£1,000 Prize) and International Finalist</td>
+    <td>Keyloop Dealer Tech Hackathon 2022 – University Round Winner
+    (£1,000 Prize) and International Finalist</td>
   </tr>
   <tr>
     <th>Languages</th>
     </p>
-    <td>Python, SQL, R</td>
+    <td>Python, C++, SQL</td>
   </tr>
   <tr>
     <th>Technologies</th>
     <td>pandas, Polars, DuckDB, NumPy, Airflow, FastAPI, Streamlit, pytest,
-    PostgreSQL, Kafka, PyQt, Dask
+    GoogleTest, PostgreSQL, Kafka, PyQt, Dask
   </td>
   <tr>
     <th>Tools</th>
     <td>Git, Linux, AWS (S3, MWAA, ECS, Lambda, SNS, CloudWatch), Docker,
-    Kubernetes, Qt, Splunk, Grafana
+    Kubernetes, CMake, Qt, Splunk, Grafana
   </td>
   </tr>
 </table>
