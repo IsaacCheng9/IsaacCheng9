@@ -47,8 +47,8 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/isaaccheng9)!
   </tr>
   <tr>
     <th>Technologies</th>
-    <td>pandas, Polars, DuckDB, NumPy, Airflow, FastAPI, Streamlit, pytest,
-    GoogleTest, PostgreSQL, Kafka, PyQt, Dask
+    <td>pandas, Polars, DuckDB, NumPy, Airflow, FastAPI, gRPC, Protobuf, Streamlit, pytest,
+    GoogleTest, PostgreSQL, Kafka, PyQt
   </td>
   <tr>
     <th>Tools</th>
